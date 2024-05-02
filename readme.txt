@@ -5,8 +5,9 @@ To run this program I make a new terminal in vscode and type nodemon into the te
 That should start everything and allow you to test from there.
 
 Note that node_modules has been left empty. You may need to 'npm install' a few things:
+'express'
+'setprototypeof'
+'iconv-lite'
 'http-errors'
-'sequelize'
-'sqlite3'
 
 But you should try to type 'nodemon' first and see if any errors occur.
